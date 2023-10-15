@@ -1,4 +1,5 @@
-### Hi there 👋
+### About Me
+I am a person
 
 <!--
 **leighjaneu/leighjaneu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
