@@ -1,5 +1,6 @@
 ### About Me
-I am a person
+Here is my magnum opus, Iokilo the Baer's lore:
+https://docs.google.com/document/d/1jS7zd_ViulMsBrvTdCpUD9JZcWcwpZkdRnKtMdy6PqM/edit
 
 <!--
 **leighjaneu/leighjaneu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
