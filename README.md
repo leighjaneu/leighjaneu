@@ -1,6 +1,5 @@
 ### About Me
-Here is my magnum opus, Iokilo the Baer's lore:
-https://docs.google.com/document/d/1jS7zd_ViulMsBrvTdCpUD9JZcWcwpZkdRnKtMdy6PqM/edit
+I am a Cybersecurity major at NEU who enjoys creative writing
 
 <!--
 **leighjaneu/leighjaneu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
